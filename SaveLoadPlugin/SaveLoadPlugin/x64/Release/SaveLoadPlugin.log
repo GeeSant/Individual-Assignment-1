@@ -1,0 +1,9 @@
+﻿  SimpleClass.cpp
+  Wrapper.cpp
+     Creating library C:\Users\giuli\OneDrive\Desktop\Game Engine Design & Implementation\Assignments\Individual Assignment 1\The Assignment\SaveLoadPlugin\x64\Release\SaveLoadPlugin.lib and object C:\Users\giuli\OneDrive\Desktop\Game Engine Design & Implementation\Assignments\Individual Assignment 1\The Assignment\SaveLoadPlugin\x64\Release\SaveLoadPlugin.exp
+  Generating code
+  2 of 138 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SaveLoadPlugin.vcxproj -> C:\Users\giuli\OneDrive\Desktop\Game Engine Design & Implementation\Assignments\Individual Assignment 1\The Assignment\SaveLoadPlugin\x64\Release\SaveLoadPlugin.dll
